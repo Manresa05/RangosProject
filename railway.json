@@ -1,0 +1,9 @@
+{
+    "build": {
+      "builder": "NIXPACKS",
+      "nixpacksPlan": {
+        "startCommand": "npx serve public"
+      }
+    }
+  }
+  
